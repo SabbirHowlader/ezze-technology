@@ -17,7 +17,7 @@ import img15 from '../../../../Image/Partner/samsung.png'
 
 const Partner = () => {
     return (
-        <div className='grid grid-cols-3 lg:grid-cols-4 gap-10 p-20'>
+        <div className='grid grid-cols-3 lg:grid-cols-4 gap-10 p-10'>
             <img src={img1} alt="/" />
             <img src={img2} alt="/" />
             <img src={img3} alt="/" />

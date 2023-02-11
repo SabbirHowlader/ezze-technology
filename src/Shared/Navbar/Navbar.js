@@ -14,7 +14,7 @@ const Navbar = () => {
         </React.Fragment>
 
     return (
-        <div className="navbar bg-neutral">
+        <div className="navbar btn-info">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn lg:hidden">

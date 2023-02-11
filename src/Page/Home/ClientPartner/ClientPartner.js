@@ -19,10 +19,10 @@ import Partner from './Partner/Partner';
 
 const ClientPartner = () => {
     return (
-        <div className='grid grid-cols-1 lg:grid-cols-2 my-20'>
+        <div className='grid grid-cols-1 lg:grid-cols-2 my-20 gap-10'>
             <div>
-                <h2 className='text-4xl font-bold text-center hover:text-orange-500 -mb-6'>Our Client</h2>
-                <div className='grid grid-cols-3 lg:grid-cols-4 gap-10 p-20'>
+                <h2 className='text-4xl font-bold text-center -mb-6'>Our Client</h2>
+                <div className='grid grid-cols-3 lg:grid-cols-4 gap-10 p-10'>
                      <img src={img1} alt="/" /> 
                      <img src={img2} alt="/" /> 
                      <img src={img3} alt="/" /> 
@@ -42,7 +42,7 @@ const ClientPartner = () => {
                 </div>
             </div>
             <div>
-                <h2 className='text-4xl font-bold text-center hover:text-orange-500 -mb-6'>Our Partner</h2>
+                <h2 className='text-4xl font-bold text-center -mb-6'>Our Partner</h2>
                 <div>
                     <Partner></Partner>
                 </div>

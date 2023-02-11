@@ -11,13 +11,13 @@ const Achievement = () => {
                 <div className='grid grid-cols-1 gap-5 p-5'>
 
                     {/* card--1-- */}
-                    <div className='p-2 bg-rose-100 rounded-lg'>
+                    <div className='p-2 bg-emerald-100 rounded-lg'>
                         <h4 className='text-2xl flex justify-items-center gap-3 mb-2'><span className='text-2xl'><FaCrown></FaCrown></span>NATIONAL MOBILE APP DEVELOPMENT AWARD-15</h4>
                         <p>Awarded For Live Blood Bank Mobile Application, Category- Health & Environment, Position: Runner-up</p>
                     </div>
 
                     {/* card--2-- */}
-                    <div className='p-2 bg-emerald-100 rounded-lg'>
+                    <div className='p-2 bg-lime-100 rounded-lg'>
                         <h4 className='text-2xl flex justify-items-center gap-3 mb-2'><span className='text-2xl'><FaCrown></FaCrown></span>BEST LIVE STREMING AWARD</h4>
                         <p>Online Streaming Partnership: Bangladesh ICT Expo-2015 (15 June to 17 June) at BICC</p>
                     </div>

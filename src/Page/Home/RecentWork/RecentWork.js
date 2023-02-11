@@ -60,7 +60,7 @@ const RecentWork = () => {
                 </div>
             </div>
             <div className='flex justify-end mx-5'>
-                <button className='btn bg-orange-500 hover:bg-orange-400 border-green-500'>See all Project</button>
+                <button className="btn btn-info w-44 hover:bg-cyan-300">See All Projects</button>
             </div>
         </div>
     );
