@@ -8,7 +8,7 @@ const TopBanner = () => {
             <div className="hero-content text-center text-neutral-content">
                 <div className="">
                     <h3 className="mb-5 text-5xl font-bold">Welcome to <span className='text-orange-400'>Innovation!</span></h3>
-                    <p className="mb-5 w-1/2 mx-auto">Ezze Technology Ltd. is one of the most popular Software Company in Bangladesh. We work on Web Development, Apps Development, Digital Marketing, Domain & Hosting, Live Streaming video and E-Business Solution. Successfully we done lot of web development projects. Our dream is going forward with High and New Technology will bring success in every way. </p>
+                    <p className="mb-5 w-5/6 mx-auto">Ezze Technology Ltd. is one of the most popular Software Company in Bangladesh. We work on Web Development, Apps Development, Digital Marketing, Domain & Hosting, Live Streaming video and E-Business Solution. Successfully we done lot of web development projects. Our dream is going forward with High and New Technology will bring success in every way. </p>
                 </div>
             </div>
         </div>
