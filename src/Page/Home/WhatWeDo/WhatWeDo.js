@@ -4,7 +4,7 @@ import { FaLaptop, FaRocket, FaGlobeAfrica ,FaStore, FaVideo,FaWeightHanging} fr
 const WhatWeDo = () => {
     return (
         <div className='btn-info'>
-            <h2 className='text-4xl font-bold text-center hover:text-orange-500 pt-10 pb-2'>What We Do!</h2>
+            <h2 className='text-4xl font-bold text-center pt-10 pb-2'>What We Do!</h2>
             <div class="divider w-24 mx-auto before:bg-primary after:bg-secondary"></div>
 
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-10 mx-5 lg:mx-16 pb-10'>
@@ -12,7 +12,7 @@ const WhatWeDo = () => {
                 {/* part--1-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaRocket></FaRocket></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaRocket></FaRocket></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>Web Development</h5>
@@ -26,7 +26,7 @@ const WhatWeDo = () => {
                 {/* part--2-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaLaptop></FaLaptop></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaLaptop></FaLaptop></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>Apps Development</h5>
@@ -39,7 +39,7 @@ const WhatWeDo = () => {
                 {/* part--3-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaGlobeAfrica></FaGlobeAfrica></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaGlobeAfrica></FaGlobeAfrica></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>Digital Marketing</h5>
@@ -53,7 +53,7 @@ const WhatWeDo = () => {
                 {/* part--4-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaStore></FaStore></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaStore></FaStore></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>Domain & Hosting</h5>
@@ -66,7 +66,7 @@ const WhatWeDo = () => {
                 {/* part--5-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaVideo></FaVideo></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaVideo></FaVideo></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>Live Streming</h5>
@@ -79,7 +79,7 @@ const WhatWeDo = () => {
                 {/* part--6-- */}
                 <div>
                     <div>
-                        <span className='text-5xl flex justify-center p-6 bg-teal-300 hover:text-orange-500 w-24  mx-auto rounded-full'><FaWeightHanging></FaWeightHanging></span>
+                        <span className='text-5xl flex justify-center p-6 bg-emerald-500 text-white w-24 h-24 items-center  mx-auto rounded-full'><FaWeightHanging></FaWeightHanging></span>
                     </div>
                     <div className='mt-3'>
                         <h5 className='text-2xl font-bold mb-3'>E-Business Solution</h5>
